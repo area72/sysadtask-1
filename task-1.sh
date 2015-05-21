@@ -1,3 +1,5 @@
+# R Abishek
+# 110114066 (ICE)
 # sysadtask-1
 # language : bash
 for i in {1..100}
